@@ -1,0 +1,6 @@
+Soy un archivo de texto.
+
+Esta es otra linea.Este es un nuevo dato
+Este es un nuevo dato
+Este es un nuevo dato
+Este es un nuevo dato
